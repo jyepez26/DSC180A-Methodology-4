@@ -1,5 +1,5 @@
 # MA4 Responses
-Jonathan Yepez, joyepez@ucsd.edu
+Jonathan Yepez, joyepez@ucsd.edu/
 Section D16, Rob Knight.
 
 ### What is the most interesting topic covered in your domain this quarter?
@@ -11,7 +11,13 @@ and they are just as affected by climate change as macroscropic organisms!
 ### Describe a potential investigation you would like to pursue for your Quarter 2 Project.
 An investigation that I would like to pursue for my Quarter 2 Project is
 to see what we can discover about the health and biological processes 
-of microbes in Oxygen Minimum Zones.
+of microbes in Oxygen Minimum Zones. Or if this doesn't work out,
+I would like to explore other ways that we can explain climate change's
+impacts through microbiomes. We are developing the skills currently to analyze
+biological activity in microbes on a large scale, making use of satellite remote
+sensing data. This would be applicable to finding trends across oceans
+in the health of our ocean's organisms--especially the microbes that are
+responsible for most of the nutrient flow and other important processes.
 
 ### What is a potential change you’d make to the approach taken in your current Quarter 1 Project?
 A potential change I'd like to make to the approach that I've taken in my
