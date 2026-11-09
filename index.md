@@ -1,5 +1,6 @@
-# MA4 Responses
-Jonathan Yepez, joyepez@ucsd.edu/
+# DSC180A Methodology 4 Part 2
+Jonathan Yepez, joyepez@ucsd.edu
+
 Section D16, Rob Knight.
 
 ### What is the most interesting topic covered in your domain this quarter?
